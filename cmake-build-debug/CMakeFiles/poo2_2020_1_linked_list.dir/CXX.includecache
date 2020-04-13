@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lordmarcusvane/Downloads/Hackprog/C++Proj/LinkedList/linked_list.h
+cctype
+-
+
+/home/lordmarcusvane/Downloads/Hackprog/C++Proj/LinkedList/main.cpp
+iostream
+-
+cassert
+-
+string
+-
+linked_list.h
+/home/lordmarcusvane/Downloads/Hackprog/C++Proj/LinkedList/linked_list.h
+

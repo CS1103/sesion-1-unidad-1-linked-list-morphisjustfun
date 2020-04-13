@@ -1,0 +1,3 @@
+/home/lordmarcusvane/Downloads/Hackprog/C++Proj/LinkedList/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lordmarcusvane/Downloads/Hackprog/C++Proj/LinkedList/cmake-build-debug/CMakeFiles/poo2_2020_1_linked_list.dir
+/home/lordmarcusvane/Downloads/Hackprog/C++Proj/LinkedList/cmake-build-debug/CMakeFiles/edit_cache.dir
